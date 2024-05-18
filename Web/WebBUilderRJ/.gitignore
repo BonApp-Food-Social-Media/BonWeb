@@ -1,0 +1,39 @@
+
+
+# NPM package files
+/node_modules
+npm-debug.log
+yarn-error.log
+
+# editors
+*.launch
+.settings/
+*.sublime-workspace
+.idea/
+.project
+.classpath
+.c9/
+
+
+# Visual Studio Code Trashn Files
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history/*
+
+# WebStorm fILES
+/connect.lock
+/.angular/cache
+.sass-cache/
+/coverage
+/libpeerconnection.log
+testem.log
+/typings
+
+# output
+/dist
+/tmp
+/out-tsc
+/bazel-out
